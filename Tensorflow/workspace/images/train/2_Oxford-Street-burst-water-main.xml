@@ -1,0 +1,38 @@
+<annotation>
+	<folder>red_buses</folder>
+	<filename>2_Oxford-Street-burst-water-main.webp</filename>
+	<path>D:\University\2023 Semester 1\COMP4060\ML-Identifying-Images\ML-Identifying-Images\Tensorflow\workspace\images\collectedimages\red_buses\2_Oxford-Street-burst-water-main.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>539</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_busess</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>8</ymin>
+			<xmax>762</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_busess</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>189</ymin>
+			<xmax>276</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

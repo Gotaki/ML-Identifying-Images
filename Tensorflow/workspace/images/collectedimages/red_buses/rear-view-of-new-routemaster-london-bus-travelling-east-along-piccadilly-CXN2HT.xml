@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_buses</folder>
+	<filename>rear-view-of-new-routemaster-london-bus-travelling-east-along-piccadilly-CXN2HT.jpg</filename>
+	<path>D:\University\2023 Semester 1\COMP4060\ML-Identifying-Images\ML-Identifying-Images\Tensorflow\workspace\images\collectedimages\red_buses\rear-view-of-new-routemaster-london-bus-travelling-east-along-piccadilly-CXN2HT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>953</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_busess</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>33</ymin>
+			<xmax>1145</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+</annotation>

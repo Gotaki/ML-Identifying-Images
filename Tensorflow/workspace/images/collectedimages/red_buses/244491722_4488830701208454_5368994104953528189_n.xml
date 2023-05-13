@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_buses</folder>
+	<filename>244491722_4488830701208454_5368994104953528189_n.jpg</filename>
+	<path>D:\University\2023 Semester 1\COMP4060\ML-Identifying-Images\ML-Identifying-Images\Tensorflow\workspace\images\collectedimages\red_buses\244491722_4488830701208454_5368994104953528189_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_busess</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>228</ymin>
+			<xmax>857</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+</annotation>
